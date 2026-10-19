@@ -1392,7 +1392,13 @@
    "body_chars": 1341,
    "sha256_16": "b684578f68ad32a9",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "busan-incontinence-13",
+     "date": "2026-10-19",
+     "note": "출산 횟수·방식·나이 정리 각도(원문의 질문글에서 사실 정보만 추출, 경험담 제거)"
+    }
+   ]
   },
   {
    "id": "101",
@@ -2100,7 +2106,13 @@
    "body_chars": 2219,
    "sha256_16": "78165fb2c8c0c801",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "busan-labia-13",
+     "date": "2026-10-19",
+     "note": "소음순 색 변화 원인과 진료가 필요한 변화 구분 각도"
+    }
+   ]
   },
   {
    "id": "151",
