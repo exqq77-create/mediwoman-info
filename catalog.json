@@ -3202,7 +3202,13 @@
    "body_chars": 1368,
    "sha256_16": "31b828d43c635bc2",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "busan-mammotome-12",
+     "date": "2026-10-19",
+     "note": "맘모톰 뒤 병리 결과 확인의 중요성 사실만 사용, 병리 결과지 용어 읽기 각도로 재구성"
+    }
+   ]
   },
   {
    "id": "232",
