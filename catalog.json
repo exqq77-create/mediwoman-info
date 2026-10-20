@@ -1269,7 +1269,13 @@
    "body_chars": 2094,
    "sha256_16": "5bca825e0c8a7b36",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "busan-abortion-17",
+     "date": "2026-10-20",
+     "note": "주수에 따른 방법·확인 순서 각도(소변검사 정확도 등 수치 제외)"
+    }
+   ]
   },
   {
    "id": "085",
@@ -1797,7 +1803,13 @@
    "body_chars": 1872,
    "sha256_16": "ee42811948366dee",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "busan-thyroid-16",
+     "date": "2026-10-20",
+     "note": "혹·결절·기능 이상 용어 구분 각도(조직검사 크기 기준 제외)"
+    }
+   ]
   },
   {
    "id": "123",
