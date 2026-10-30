@@ -399,3 +399,4 @@
 {"date": "2026-10-30", "source_id": "226", "source_file": "226_busan-abortion_통영-낙태수술.txt", "original": "메디우먼/통영 낙태수술 - 메디우먼여성의원.txt", "slug": "busan-abortion-48", "note": "수술 뒤 처방약 복용 요령과 연락 기준(원문의 항생제·소염제 복용, 회복 기간 생활 수칙 사실 사용, 법령 조항은 제외)"}
 {"date": "2026-10-30", "source_id": "135", "source_file": "135_busan-breast_부산부유방.txt", "original": "메디우먼/부산부유방 -메디우먼 @워드_최솔.docx", "slug": "busan-breast-48", "note": "부유방 원인·방치 시 습진 사실을 땀·마찰 피부불편과 진료 시점 각도로 재구성"}
 {"date": "2026-10-30", "source_id": "021", "source_file": "021_busan-fibroid_해운대산부인과.txt", "original": "메디우먼/0314 해운대산부인과 -메디우먼 - 자궁근종.txt", "slug": "busan-fibroid-48", "note": "근종 압박에 따른 변비 사실을 장 문제와 구분하는 각도로 재구성"}
+{"date": "2026-10-30", "source_id": "242", "source_file": "242_busan-gyn-checkup_해운대산부인과.txt", "original": "메디우먼/해운대산부인과 -메디우먼 #2300자_최솔.txt", "slug": "busan-gyn-checkup-48", "note": "자궁근종 일반 사실(위치별 영향·검사 순서·치료 방향 개요)을 검진 전 증상 기록 각도로 재구성. 원문의 장소추가/사진지시/원장 표현 제거"}
